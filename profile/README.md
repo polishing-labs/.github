@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-这是一堆小菜狗们的组织，为什么带上*呢？，因为采购们是预备役
+这是一堆小菜狗们的组织，为什么带上*呢？，因为菜狗们是预备役
